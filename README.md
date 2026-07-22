@@ -4,18 +4,18 @@
 
 ### Final Year Computer Science & Engineering Student
 
-**Python Developer • AI & Data Analytics Enthusiast • Networking Learner • Graphic Designer**
+### Python Developer | AI & Data Analytics Enthusiast | Networking Learner | Graphic Designer
 
-Building practical software, solving real world problems, and continuously improving through hands on projects.
+Building software that solves real world problems through continuous learning and hands on development.
 
 <p align="center">
   <a href="https://github.com/JDevender007">
-    <img src="https://img.shields.io/github/followers/JDevender007?style=for-the-badge&logo=github&label=Followers">
+    <img src="https://img.shields.io/github/followers/JDevender007?style=for-the-badge&logo=github&label=Followers"/>
   </a>
   <a href="https://github.com/JDevender007?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Growing-success?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Open%20Source-Projects-success?style=for-the-badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Learning-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge"/>
 </p>
 
 </div>
@@ -24,11 +24,11 @@ Building practical software, solving real world problems, and continuously impro
 
 # 👨‍💻 About Me
 
-I'm **Devender J**, a Final Year Computer Science and Engineering student from **IFET College of Engineering**.
+I'm **Devender J**, a Final Year Computer Science and Engineering student at **IFET College of Engineering**.
 
-I enjoy building software that solves practical problems while following clean development practices. My interests span Python development, Artificial Intelligence, Data Analytics, Networking, and Web Development.
+I enjoy designing and developing practical software using Python while continuously expanding my knowledge in Artificial Intelligence, Data Analytics, Networking, and Web Development.
 
-Alongside software development, I have experience in graphic design, multimedia production, and technical documentation. I enjoy learning new technologies by building real projects instead of only studying theory.
+My goal is to build scalable software, contribute to open source projects, and grow into a Software Engineer who creates impactful technology.
 
 ---
 
@@ -40,13 +40,15 @@ Alongside software development, I have experience in graphic design, multimedia 
 <img src="https://skillicons.dev/icons?i=python,c,html,css,javascript" />
 </p>
 
+---
+
 ## Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 </p>
 
-**Also Worked With**
+**Libraries**
 
 - OpenCV
 - NumPy
@@ -56,7 +58,22 @@ Alongside software development, I have experience in graphic design, multimedia 
 
 ---
 
-## Database
+## Data Analytics
+
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Business Analytics
+- Data Analysis using Python
+- Pandas
+- NumPy
+
+---
+
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
@@ -64,15 +81,26 @@ Alongside software development, I have experience in graphic design, multimedia 
 
 ---
 
-## Tools & Platforms
+## Networking
+
+- Cisco Packet Tracer
+- GNS3
+- Wireshark
+- Basic Network Configuration
+- Network Troubleshooting
+
+---
+
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
 
-**Other Tools**
+### Additional Tools
 
 - Power BI
+- Microsoft Excel
 - Canva
 - Adobe Photoshop
 - Adobe Illustrator
@@ -82,154 +110,149 @@ Alongside software development, I have experience in graphic design, multimedia 
 
 ---
 
-## Networking
+# 💼 Experience
 
-- Cisco Packet Tracer
-- Wireshark
+## Data Analysis Intern
+
+**Eaton Power Quality Pvt. Ltd.**
+
+- Worked with Microsoft Power BI and Excel for business reporting.
+- Created dashboards and analyzed business data.
+- Learned Microsoft Power Automate and Power Apps.
+- Collaborated using Microsoft Teams.
+
+---
+
+## MERN Stack Development Intern
+
+**Aspivox**
+
+Duration: **60 Days**
+
+- Developed full stack web applications.
+- Worked with MongoDB, Express.js, React.js and Node.js.
+- Built project based applications and improved backend development skills.
 
 ---
 
 # 📂 Featured Repository
 
-## 🐍 Python Projects
+## 🐍 Python
 
-A collection of Python projects ranging from beginner to intermediate level.
+A growing collection of Python programs, automation scripts, mini projects, and practical applications.
 
-🔗 **Repository**
+🔗 Repository
 
 https://github.com/JDevender007/Python
 
-Inside this repository you'll find:
+Topics include:
 
-- Python Basics
+- Python Fundamentals
 - Object Oriented Programming
 - File Handling
+- Exception Handling
 - Automation Scripts
-- CLI Applications
+- Command Line Applications
 - Mini Projects
-- Problem Solving Programs
-- Learning Exercises
-
-More projects are continuously being added.
+- Problem Solving
 
 ---
 
-# 💼 Projects
+# 🚀 Featured Projects
 
 ### Real Time IoT Anomaly Detection Framework
 
-Enterprise focused IoT monitoring system using Kafka, Spark, Machine Learning, and real time analytics.
+Enterprise style IoT monitoring platform using Kafka, Spark and Machine Learning for anomaly detection.
 
 ---
 
 ### AI Based Road Damage Detection
 
-Computer vision based road damage detection using YOLO for intelligent infrastructure monitoring.
+Computer vision application using YOLO for automated road damage detection.
 
 ---
 
 ### Virtual Keyboard Using Computer Vision
 
-A virtual keyboard controlled through hand gesture recognition using OpenCV and MediaPipe.
+Gesture based virtual keyboard developed using OpenCV and MediaPipe.
 
 ---
 
 ### Indian Sign Language Recognition
 
-An AI based hand gesture recognition system for converting sign language into readable text.
+Hand gesture recognition system for translating sign language into readable text.
 
 ---
 
-### Python Utility Projects
+### Python Projects
 
-A collection of automation tools, utilities, and command line applications built using Python.
+A collection of automation tools, utilities and beginner to intermediate Python applications.
 
 ---
 
-# 📚 Currently Learning
+# 📈 Currently Learning
 
 - Advanced Python
-- Machine Learning
 - Artificial Intelligence
+- Machine Learning
 - Data Analytics
-- Networking
 - Cloud Computing
+- Networking
 - System Design
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 First Prize in Three College Project Expos
-- 🥈 Second Prize in Research Poster Presentation
-- 💻 Participated in National Level Hackathons
-- 📄 Presented Papers at National Level Technical Symposiums
-- 🎨 Multimedia Team Leader with 2.5+ years of experience
-- 🎓 Completed MERN Stack Development Internship
+- First Prize in Three College Project Expos
+- Second Prize in Research Poster Presentation
+- National Level Technical Paper Presenter
+- National Level Hackathon Participant
+- Multimedia Team Leader
+- Class Representative
 
 ---
 
-# 📜 Certifications
+# 🌱 Current Focus
 
-- Python Zero to Mastery
-- Full Stack Development
-- Responsive Web Design
-- Figma Mastery
-- Cisco Networking Academy
-- Infosys Springboard Learning Programs
-
----
-
-# 🌱 What I'm Working On
-
-- Building production quality Python projects
-- Expanding my AI and Data Analytics portfolio
-- Learning cloud technologies
-- Improving software architecture skills
-- Publishing more open source projects
+- Building production ready Python applications
+- Developing AI based solutions
+- Improving Data Analytics skills
+- Learning scalable software architecture
+- Expanding my GitHub portfolio
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDevender007&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDevender007&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JDevender007&theme=tokyonight&hide_border=true)
-
-</div>
+> GitHub statistics will appear automatically after connecting GitHub Readme Stats or another supported service.
 
 ---
 
 # 🤝 Connect With Me
 
-<p>
-
-💻 GitHub
+### GitHub
 
 https://github.com/JDevender007
 
-💼 LinkedIn
+### LinkedIn
 
 https://www.linkedin.com/in/devender-j/
 
-</p>
-
 ---
 
-# 🎯 Career Goal
+# 🎯 Career Objective
 
-To become a skilled Software Engineer by building reliable software, contributing to open source projects, and continuously learning modern technologies in Python, AI, Data Analytics, and Networking.
+To begin my career as a Software Engineer where I can apply my knowledge in Python, Artificial Intelligence, Data Analytics, Networking, and Full Stack Development while continuously learning modern technologies and contributing to meaningful software solutions.
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+## Thank You for Visiting!
 
-If you like my work, consider giving a ⭐ to the repositories you find useful.
+If you find my projects useful, consider giving them a ⭐.
+
+I'm always learning, building, and sharing my journey through GitHub.
 
 </div>
