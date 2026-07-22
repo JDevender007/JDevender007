@@ -139,12 +139,7 @@ I also bring a professional-level video editing and motion design background (Af
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JDevender007&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JDevender007&theme=radical" alt="GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDevender007&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 > Stats render automatically once GitHub Readme Stats is enabled for this profile — no extra setup needed beyond a public repo history.
