@@ -15,24 +15,38 @@ Building scalable software, exploring modern technologies, and sharing projects 
   <img src="https://komarev.com/ghpvc/?username=JDevender007&style=for-the-badge&color=blueviolet" />
 </p>
 
+<p>
+  <a href="https://github.com/JDevender007"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devender-j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 📑 Table of Contents
 
-I build practical software with Python and enjoy solving real world problems through clean, maintainable code.
-
-My GitHub focuses on structured learning through projects across software engineering, databases, automation, networking, cloud computing, data analytics, artificial intelligence, and cybersecurity. Every repository is organized to document both my learning process and practical implementations.
-
-Outside software development, I have experience in graphic design, motion graphics, and video production, creating technical visuals and project presentations with Adobe Creative Cloud and DaVinci Resolve.
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Featured Repositories](#-featured-repositories)
+- [GitHub Statistics](#-github-statistics)
+- [Connect With Me](#-connect-with-me)
 
 ---
 
-# 🚀 Tech Stack
+## 👨‍💻 About Me
 
-## Languages
+I build practical software with Python and enjoy solving real-world problems through clean, maintainable code.
 
+My GitHub is a structured record of that learning — projects spanning software engineering, databases, automation, networking, cloud computing, data analytics, artificial intelligence, and cybersecurity. Each repository documents both the learning process and the working implementation behind it, and it keeps growing as I take on new topics.
+
+Outside software development, I have a background in graphic design, motion graphics, and video production, working with Adobe Creative Cloud and DaVinci Resolve to create technical visuals and project presentations.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -41,8 +55,7 @@ Outside software development, I have experience in graphic design, motion graphi
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-## Frameworks & Libraries
-
+### Frameworks & Libraries
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -56,16 +69,14 @@ Outside software development, I have experience in graphic design, motion graphi
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 </p>
 
-## Databases
-
+### Databases
 <p>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
-## Currently Learning
-
+### Currently Learning
 <p>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=flat-square"/>
@@ -77,8 +88,7 @@ Outside software development, I have experience in graphic design, motion graphi
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
-## Tools
-
+### Tools
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -89,8 +99,7 @@ Outside software development, I have experience in graphic design, motion graphi
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
 </p>
 
-## Networking & Cloud
-
+### Networking & Cloud
 <p>
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square"/>
 <img src="https://img.shields.io/badge/GNS3-0085CA?style=flat-square"/>
@@ -99,8 +108,7 @@ Outside software development, I have experience in graphic design, motion graphi
 <img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
-## Creative Tools
-
+### Creative Tools
 <p>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
@@ -110,20 +118,24 @@ Outside software development, I have experience in graphic design, motion graphi
 </p>
 
 ---
-# 📂 Featured Repositories
+
+## 📂 Featured Repositories
 
 | Repository | Description |
-|------------|-------------|
-| 🐍 **[Python](https://github.com/JDevender007/Python)** | My flagship repository featuring a structured collection of 100+ Python projects across Software Engineering, Object Oriented Programming, Automation, Web Development, Databases, Networking, Cybersecurity, Cloud Computing, Data Analysis, Machine Learning, Deep Learning, Computer Vision, Generative AI, DevOps, and more. |
-| 🌐 **Web Development** | Full stack applications, REST APIs, authentication, backend development, and modern web technologies. |
-| 📊 **Data Analytics** | Data cleaning, exploratory analysis, dashboards, Power BI, Python analytics, and visualization projects. |
+|---|---|
+| 🐍 **[Python](https://github.com/JDevender007/Python)** | My flagship repository — a growing, structured collection of Python projects spanning Software Engineering, Object-Oriented Programming, Automation, Web Development, Databases, Networking, Cybersecurity, Cloud Computing, Data Analysis, Machine Learning, Deep Learning, Computer Vision, and Generative AI. |
+| 🌐 **Web Development** | Full-stack applications, REST APIs, authentication, backend development, and modern web technologies. |
+| 📊 **Data Analytics** | Data cleaning, exploratory analysis, dashboards, Power BI, and Python-based visualization projects. |
 | 🌐 **Networking** | Cisco Packet Tracer labs, GNS3 topologies, network automation, socket programming, and Python networking tools. |
 | ☁️ **Cloud Computing** | Cloud computing concepts, deployment, automation, infrastructure, monitoring, and DevOps practices. |
 | 🤖 **Artificial Intelligence** | Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Generative AI implementations. |
 | 🔐 **Cybersecurity** | Security utilities, vulnerability assessment, encryption, network security, and ethical hacking projects. |
+
+> 📌 This list expands as new repositories are added — check back for updates.
+
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -133,7 +145,7 @@ Outside software development, I have experience in graphic design, motion graphi
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p>
 <a href="https://github.com/JDevender007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
