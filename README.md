@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Devender J - Python Developer, Software Engineer, AI & Data Enthusiast"/>
+<img src="./assets/header.svg" width="100%" alt="Devender J - Final-Year CSE Student and Python Developer"/>
 
 <img src="./assets/typing.svg" width="100%" alt="Building. Learning. Sharing."/>
-
-<br/>
 
 <a href="https://github.com/JDevender007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/devender-j"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=JDevender007&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<img src="./assets/marquee.svg" width="100%" alt="Skills marquee"/>
 
 </div>
 
@@ -16,16 +16,71 @@
 
 ## 👨‍💻 About Me
 
-I build practical software with **Python** and enjoy solving real-world problems through clean, maintainable code.
+<div align="center">
+<img src="./assets/terminal.svg" width="100%" alt="Terminal intro"/>
+</div>
 
-My GitHub is a structured record of that learning — projects spanning **software engineering, databases, automation, networking, cloud computing, data analytics, artificial intelligence, and cybersecurity**. Each repository documents both the learning process and the working implementation behind it, and it keeps growing as I take on new topics.
+I'm a **final-year Computer Science Engineering student** and **Python developer** who builds practical software and learns by shipping. I enjoy solving real-world problems with clean, maintainable code, and my interests sit across **data analytics, networking, AI and machine learning**.
 
-Outside software development, I have a background in **graphic design, motion graphics, and video production**, working with Adobe Creative Cloud and DaVinci Resolve to create technical visuals and project presentations.
+My flagship repository documents that journey: **131 Python projects**, from beginner programs to advanced AI and enterprise-style applications, built with Object-Oriented Programming, modular architecture and Git version control.
 
-- 🔭 **Working on:** structured Python projects across software, data, AI, networking and security
+Outside software, I have a background in **graphic design, motion graphics and video production** (Adobe Creative Cloud, DaVinci Resolve), which I use to create technical visuals and project presentations.
+
+- 🔭 **Working on:** growing my portfolio across Python, data analytics, deep learning and networking
 - 🌱 **Learning:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Power BI
 - 🎨 **Also into:** graphic design, motion graphics and video production
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/devender-j)
+
+### 🎯 Focus Areas
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>🐍</h3><b>Software Engineering</b><br/><sub>Clean, tested, modular Python with OOP</sub></td>
+<td align="center" width="25%"><h3>📊</h3><b>Data Analytics</b><br/><sub>Analysis, visualization and dashboards</sub></td>
+<td align="center" width="25%"><h3>🤖</h3><b>AI &amp; Deep Learning</b><br/><sub>ML, PyTorch, computer vision, NLP, GenAI</sub></td>
+<td align="center" width="25%"><h3>📡</h3><b>Networking</b><br/><sub>Packet Tracer, GNS3, Wireshark</sub></td>
+</tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📈 By the Numbers
+
+<div align="center">
+<img src="./assets/stats.svg" width="100%" alt="131 Python projects, 5 public repositories, 100 percent Python"/>
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📂 Featured Repositories
+
+| Repository | What it is |
+|---|---|
+| 🐍 **[Python](https://github.com/JDevender007/Python)** | Flagship repo: **131 projects**, from beginner programs to advanced AI. Covers OOP, file handling, data structures & algorithms, automation, web scraping, APIs, desktop apps, databases, networking, cybersecurity, cloud, data analysis and visualization, ML, deep learning, computer vision, NLP, Generative AI, IoT, robotics, image processing, DevOps and software engineering. |
+| 📊 **[Data_Analyst](https://github.com/JDevender007/Data_Analyst)** | Data analytics portfolio, starting with a **Sales Performance Dashboard**. |
+| 🧠 **[BrainTumorDiagnosis](https://github.com/JDevender007/BrainTumorDiagnosis)** | A modular deep-learning pipeline in Python, organised into configs, datasets, models, losses, metrics, optimizers, schedulers, a training engine, explainability and tests. |
+| 📡 **[Networking](https://github.com/JDevender007/Networking)** | Planned network engineering portfolio of **50 projects**, beginner to advanced: Cisco Packet Tracer labs, routing and switching, enterprise design and network security. *In progress.* |
+
+### 🗂️ Inside the Python Repository
+
+<details>
+<summary><b>🏗️ How every project is built</b></summary>
+
+<br/>
+
+The more advanced projects each ship with its own README, pinned `requirements.txt`, `.gitignore`, a modular `src/` package, a passing `pytest` suite, and a fully offline `--demo` that runs from bundled sample data, with no API keys, no network and no downloads.
+
+```text
+Project_Name/
+├── src/              # main.py + library modules
+├── tests/            # pytest test suite
+├── data/             # bundled deterministic sample data
+├── README.md
+├── requirements.txt
+└── .gitignore
+```
+
+</details>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -33,7 +88,7 @@ Outside software development, I have a background in **graphic design, motion gr
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?theme=dark&i=python,c,html,css,mysql,sqlite,mongodb,fastapi,flask,opencv,pytorch,tensorflow,git,github,docker,vscode,figma,aws,azure&perline=10" alt="Skills"/>
+<img src="https://skillicons.dev/icons?theme=dark&i=python,c,html,css,fastapi,flask,pandas,numpy,opencv,pytorch,tensorflow,mysql,sqlite,mongodb,postgres,docker,git,github,vscode,figma,aws,azure&perline=11" alt="Skills"/>
 
 </div>
 
@@ -54,15 +109,23 @@ Outside software development, I have a background in **graphic design, motion gr
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pillow-2F6F9F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tkinter-2F6F9F?style=flat-square"/>
+<img src="https://img.shields.io/badge/CustomTkinter-1F6AA5?style=flat-square"/>
 <img src="https://img.shields.io/badge/Requests-2CA5E0?style=flat-square"/>
 <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square"/>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
 </p>
 
 ### Databases
 <p>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
@@ -76,7 +139,6 @@ Outside software development, I have a background in **graphic design, motion gr
 <img src="https://img.shields.io/badge/Generative_AI-10A37F?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 </p>
 
 ### Tools
@@ -110,29 +172,10 @@ Outside software development, I have a background in **graphic design, motion gr
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📂 Featured Repositories
-
-| Repository | Description |
-|---|---|
-| 🐍 **[Python](https://github.com/JDevender007/Python)** | Flagship repository — a growing, structured collection of Python projects spanning Software Engineering, OOP, Automation, Web Development, Databases, Networking, Cybersecurity, Cloud Computing, Data Analysis, Machine Learning, Deep Learning, Computer Vision, and Generative AI. |
-| 🌐 **Web Development** | Full-stack applications, REST APIs, authentication, backend development, and modern web technologies. |
-| 📊 **Data Analytics** | Data cleaning, exploratory analysis, dashboards, Power BI, and Python-based visualization. |
-| 📡 **Networking** | Cisco Packet Tracer labs, GNS3 topologies, network automation, socket programming, and Python networking tools. |
-| ☁️ **Cloud Computing** | Cloud concepts, deployment, automation, infrastructure, monitoring, and DevOps practices. |
-| 🤖 **Artificial Intelligence** | Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI implementations. |
-| 🔐 **Cybersecurity** | Security utilities, vulnerability assessment, encryption, network security, and ethical hacking projects. |
-
-> 📌 This list expands as new repositories are added — check back for updates.
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-## 📊 GitHub Statistics
+## 🧭 Learning Roadmap
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JDevender007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDevender007&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
+<img src="./assets/roadmap.svg" width="100%" alt="Learning roadmap from Python to Generative AI with a Networking and Cloud branch"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>

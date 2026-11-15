@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-label="Terminal intro: whoami, focus, repos, motto">
+<style>
+ .p,.o{font-family:Consolas,Menlo,monospace;font-size:17px}
+ .g{fill:#4ade80} .b{fill:#60a5fa} .w{fill:#e2e8f0} .c{fill:#fde68a} .o{fill:#a5f3fc}
+</style>
+<rect width="900" height="340" rx="14" fill="#0d1117" stroke="#30363d"/>
+<rect width="900" height="38" rx="14" fill="#161b22"/><rect y="24" width="900" height="14" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="46" cy="19" r="6" fill="#ffbd2e"/><circle cx="68" cy="19" r="6" fill="#27c93f"/>
+<text x="450" y="24" text-anchor="middle" style="font-family:Segoe UI,Arial,sans-serif;font-size:13px;fill:#8b949e">devender@github: ~</text>
+
+ <clipPath id="c0"><rect x="28" y="68" width="0" height="28">
+   <animate attributeName="width" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.0273;0.1091;0.97;1" values="0;0;272;272;0"/>
+ </rect></clipPath>
+ <text x="28" y="88" class="p" clip-path="url(#c0)"><tspan class="g">devender@github</tspan><tspan class="w">:</tspan><tspan class="b">~</tspan><tspan class="w">$ </tspan><tspan class="c">whoami</tspan></text>
+ <text x="28" y="114" class="o" opacity="0">&gt; Devender J  |  Final-Year CSE Student &amp; Python Developer
+   <animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.1227;0.1455;0.97;1" values="0;0;1;1;0"/>
+ </text>
+ <clipPath id="c1"><rect x="28" y="126" width="0" height="28">
+   <animate attributeName="width" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.2545;0.3364;0.97;1" values="0;0;344;344;0"/>
+ </rect></clipPath>
+ <text x="28" y="146" class="p" clip-path="url(#c1)"><tspan class="g">devender@github</tspan><tspan class="w">:</tspan><tspan class="b">~</tspan><tspan class="w">$ </tspan><tspan class="c">cat focus.txt</tspan></text>
+ <text x="28" y="172" class="o" opacity="0">&gt; Software Engineering  |  AI &amp; Data  |  Networking &amp; Cloud
+   <animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.3500;0.3727;0.97;1" values="0;0;1;1;0"/>
+ </text>
+ <clipPath id="c2"><rect x="28" y="184" width="0" height="28">
+   <animate attributeName="width" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.4818;0.5636;0.97;1" values="0;0;302;302;0"/>
+ </rect></clipPath>
+ <text x="28" y="204" class="p" clip-path="url(#c2)"><tspan class="g">devender@github</tspan><tspan class="w">:</tspan><tspan class="b">~</tspan><tspan class="w">$ </tspan><tspan class="c">ls repos/</tspan></text>
+ <text x="28" y="230" class="o" opacity="0">&gt; web/  data/  networking/  cloud/  ai/  security/
+   <animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.5773;0.6000;0.97;1" values="0;0;1;1;0"/>
+ </text>
+ <clipPath id="c3"><rect x="28" y="242" width="0" height="28">
+   <animate attributeName="width" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.7091;0.7909;0.97;1" values="0;0;323;323;0"/>
+ </rect></clipPath>
+ <text x="28" y="262" class="p" clip-path="url(#c3)"><tspan class="g">devender@github</tspan><tspan class="w">:</tspan><tspan class="b">~</tspan><tspan class="w">$ </tspan><tspan class="c">echo $MOTTO</tspan></text>
+ <text x="28" y="288" class="o" opacity="0">&gt; Building. Learning. Sharing.
+   <animate attributeName="opacity" dur="22.0s" repeatCount="indefinite" keyTimes="0;0.8045;0.8273;0.97;1" values="0;0;1;1;0"/>
+ </text>
+<rect x="28" y="318" width="10" height="4" fill="#4ade80"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

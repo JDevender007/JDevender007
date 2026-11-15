@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130" role="img" aria-label="131 Python projects, 5 public repositories, 100 percent Python">
+<style>.n{font-family:Segoe UI,Arial,sans-serif;font-size:44px;font-weight:800}.t{font-family:Segoe UI,Arial,sans-serif;font-size:14px;fill:#8b949e}</style>
+<g>
+ <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.7s" begin="0.0s" fill="freeze"/>
+ <rect x="12" y="10" width="280" height="110" rx="14" fill="#0d1117" stroke="#36d1dc" stroke-opacity="0.6"/>
+ <rect x="12" y="10" width="280" height="110" rx="14" fill="#36d1dc" opacity="0.06"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="4s" begin="0.0s" repeatCount="indefinite"/></rect>
+ <text x="152" y="70" text-anchor="middle" class="n" fill="#36d1dc">131</text>
+ <text x="152" y="98" text-anchor="middle" class="t">Python projects</text>
+ <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.0s" fill="freeze"/>
+</g><g>
+ <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.7s" begin="0.25s" fill="freeze"/>
+ <rect x="308" y="10" width="280" height="110" rx="14" fill="#0d1117" stroke="#60a5fa" stroke-opacity="0.6"/>
+ <rect x="308" y="10" width="280" height="110" rx="14" fill="#60a5fa" opacity="0.06"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="4s" begin="0.5s" repeatCount="indefinite"/></rect>
+ <text x="448" y="70" text-anchor="middle" class="n" fill="#60a5fa">5</text>
+ <text x="448" y="98" text-anchor="middle" class="t">Public repositories</text>
+ <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.25s" fill="freeze"/>
+</g><g>
+ <animateTransform attributeName="transform" type="translate" values="0 18;0 0" dur="0.7s" begin="0.5s" fill="freeze"/>
+ <rect x="604" y="10" width="280" height="110" rx="14" fill="#0d1117" stroke="#f472b6" stroke-opacity="0.6"/>
+ <rect x="604" y="10" width="280" height="110" rx="14" fill="#f472b6" opacity="0.06"><animate attributeName="opacity" values="0.04;0.14;0.04" dur="4s" begin="1.0s" repeatCount="indefinite"/></rect>
+ <text x="744" y="70" text-anchor="middle" class="n" fill="#f472b6">100%</text>
+ <text x="744" y="98" text-anchor="middle" class="t">Python codebase</text>
+ <animate attributeName="opacity" values="0;1" dur="0.7s" begin="0.5s" fill="freeze"/>
+</g></svg>

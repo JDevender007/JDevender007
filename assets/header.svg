@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Devender J - Python Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Devender J - Final-Year CSE Student and Python Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0f2027"/>
@@ -63,18 +63,16 @@
       <text x="450" y="152" opacity="0">Python Developer
         <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.03;0.22;0.25;1" values="0;1;1;0;0"/>
       </text>
-      <text x="450" y="152" opacity="0">Software Engineer
+      <text x="450" y="152" opacity="0">Final-Year CSE Student
         <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.25;0.28;0.47;0.50;1" values="0;0;1;1;0;0"/>
       </text>
-      <text x="450" y="152" opacity="0">AI &amp; Data Enthusiast
+      <text x="450" y="152" opacity="0">Data Analytics &amp; Networking Enthusiast
         <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.50;0.53;0.72;0.75;1" values="0;0;1;1;0;0"/>
       </text>
-      <text x="450" y="152" opacity="0">Networking &amp; Cloud Learner
+      <text x="450" y="152" opacity="0">AI &amp; Machine Learning Learner
         <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.75;0.78;0.97;1" values="0;0;1;1;0"/>
       </text>
     </g>
 
-    <!-- blinking cursor -->
-    <rect x="450" y="168" width="0" height="0" fill="none"/>
   </g>
 </svg>

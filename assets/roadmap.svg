@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="290" viewBox="0 0 900 290" role="img" aria-label="Learning roadmap from Python to Generative AI, with a Networking and Cloud branch">
+<style>.l{font-family:Segoe UI,Arial,sans-serif;font-size:14px;font-weight:700;fill:#e6edf3}.s{font-family:Segoe UI,Arial,sans-serif;font-size:12px;fill:#8b949e}</style>
+<rect width="900" height="290" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="450" y="34" text-anchor="middle" class="l" style="font-size:16px">Learning Roadmap</text>
+<line x1="86" y1="90" x2="181" y2="90" stroke="#36d1dc" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><line x1="213" y1="90" x2="307" y2="90" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><line x1="339" y1="90" x2="434" y2="90" stroke="#60a5fa" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><line x1="466" y1="90" x2="561" y2="90" stroke="#818cf8" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><line x1="593" y1="90" x2="687" y2="90" stroke="#a78bfa" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><line x1="719" y1="90" x2="814" y2="90" stroke="#c084fc" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><path d="M133 90 V200 H180" fill="none" stroke="#fbbf24" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></path><line x1="212" y1="200" x2="306" y2="200" stroke="#fbbf24" stroke-width="2.5" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur="1.2s" repeatCount="indefinite"/></line><g>
+ <circle cx="70" cy="90" r="16" fill="#36d1dc" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="0.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="0.00s" repeatCount="indefinite"/></circle>
+ <circle cx="70" cy="90" r="12" fill="#36d1dc"/>
+ <text x="70" y="128" text-anchor="middle" class="l">Python</text>
+ <text x="70" y="144" text-anchor="middle" class="s">&amp; OOP</text>
+</g><g>
+ <circle cx="197" cy="90" r="16" fill="#38bdf8" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="2.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="2.00s" repeatCount="indefinite"/></circle>
+ <circle cx="197" cy="90" r="12" fill="#38bdf8"/>
+ <text x="197" y="128" text-anchor="middle" class="l">Web &amp; APIs</text>
+ <text x="197" y="144" text-anchor="middle" class="s">Flask - FastAPI</text>
+</g><g>
+ <circle cx="323" cy="90" r="16" fill="#60a5fa" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="4.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="4.00s" repeatCount="indefinite"/></circle>
+ <circle cx="323" cy="90" r="12" fill="#60a5fa"/>
+ <text x="323" y="128" text-anchor="middle" class="l">Databases</text>
+ <text x="323" y="144" text-anchor="middle" class="s">SQL - MongoDB</text>
+</g><g>
+ <circle cx="450" cy="90" r="16" fill="#818cf8" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="6.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="6.00s" repeatCount="indefinite"/></circle>
+ <circle cx="450" cy="90" r="12" fill="#818cf8"/>
+ <text x="450" y="128" text-anchor="middle" class="l">Data Analytics</text>
+ <text x="450" y="144" text-anchor="middle" class="s">Pandas - Power BI</text>
+</g><g>
+ <circle cx="577" cy="90" r="16" fill="#a78bfa" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="8.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="8.00s" repeatCount="indefinite"/></circle>
+ <circle cx="577" cy="90" r="12" fill="#a78bfa"/>
+ <text x="577" y="128" text-anchor="middle" class="l">Machine Learning</text>
+ <text x="577" y="144" text-anchor="middle" class="s">Core models</text>
+</g><g>
+ <circle cx="703" cy="90" r="16" fill="#c084fc" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="10.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="10.00s" repeatCount="indefinite"/></circle>
+ <circle cx="703" cy="90" r="12" fill="#c084fc"/>
+ <text x="703" y="128" text-anchor="middle" class="l">Deep Learning</text>
+ <text x="703" y="144" text-anchor="middle" class="s">TF - PyTorch</text>
+</g><g>
+ <circle cx="830" cy="90" r="16" fill="#f472b6" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="12.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="12.00s" repeatCount="indefinite"/></circle>
+ <circle cx="830" cy="90" r="12" fill="#f472b6"/>
+ <text x="830" y="128" text-anchor="middle" class="l">CV &amp; NLP</text>
+ <text x="830" y="144" text-anchor="middle" class="s">Generative AI</text>
+</g><g>
+ <circle cx="196" cy="200" r="16" fill="#fbbf24" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="4.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="4.00s" repeatCount="indefinite"/></circle>
+ <circle cx="196" cy="200" r="12" fill="#fbbf24"/>
+ <text x="196" y="238" text-anchor="middle" class="l">Networking</text>
+ <text x="196" y="254" text-anchor="middle" class="s">&amp; Security</text>
+</g><g>
+ <circle cx="322" cy="200" r="16" fill="#fbbf24" opacity="0.25"><animate attributeName="r" values="16;26;16" dur="7.0s" begin="6.00s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.35;0;0.35" dur="7.0s" begin="6.00s" repeatCount="indefinite"/></circle>
+ <circle cx="322" cy="200" r="12" fill="#fbbf24"/>
+ <text x="322" y="238" text-anchor="middle" class="l">Cloud</text>
+ <text x="322" y="254" text-anchor="middle" class="s">AWS - Azure</text>
+</g>
+</svg>
