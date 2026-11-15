@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Devender J - Python Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36d1dc">
+        <animate attributeName="stop-color" values="#36d1dc;#a78bfa;#36d1dc" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#36d1dc;#a78bfa" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="round"><rect width="900" height="240" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="900" height="240" fill="url(#bg)"/>
+
+    <!-- floating glow orbs -->
+    <circle cx="120" cy="60" r="46" fill="#36d1dc" opacity="0.10">
+      <animate attributeName="cy" values="60;90;60" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="70" r="62" fill="#a78bfa" opacity="0.10">
+      <animate attributeName="cy" values="70;40;70" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="520" cy="190" r="34" fill="#36d1dc" opacity="0.08">
+      <animate attributeName="cx" values="520;560;520" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- twinkling dots -->
+    <g fill="#ffffff">
+      <circle cx="60" cy="150" r="2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="240" cy="40" r="2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="4s" begin="1s" repeatCount="indefinite"/></circle>
+      <circle cx="660" cy="30" r="2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.5s" begin="0.5s" repeatCount="indefinite"/></circle>
+      <circle cx="840" cy="160" r="2"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="5s" begin="2s" repeatCount="indefinite"/></circle>
+      <circle cx="400" cy="25" r="1.5"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- moving waves -->
+    <g>
+      <path fill="#36d1dc" opacity="0.18"
+            d="M0 200 Q 112 170 225 200 T 450 200 T 675 200 T 900 200 T 1125 200 T 1350 200 T 1575 200 T 1800 200 V 240 H 0 Z">
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path fill="#a78bfa" opacity="0.18"
+            d="M0 215 Q 112 190 225 215 T 450 215 T 675 215 T 900 215 T 1125 215 T 1350 215 T 1575 215 T 1800 215 V 240 H 0 Z">
+        <animateTransform attributeName="transform" type="translate" from="-900 0" to="0 0" dur="10s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- name -->
+    <text x="450" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+          font-size="56" font-weight="700" fill="url(#name)">
+      Devender J
+      <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    </text>
+
+    <!-- rotating role lines -->
+    <g font-family="Consolas, Menlo, monospace" font-size="22" fill="#e6f1ff" text-anchor="middle">
+      <text x="450" y="152" opacity="0">Python Developer
+        <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.03;0.22;0.25;1" values="0;1;1;0;0"/>
+      </text>
+      <text x="450" y="152" opacity="0">Software Engineer
+        <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.25;0.28;0.47;0.50;1" values="0;0;1;1;0;0"/>
+      </text>
+      <text x="450" y="152" opacity="0">AI &amp; Data Enthusiast
+        <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.50;0.53;0.72;0.75;1" values="0;0;1;1;0;0"/>
+      </text>
+      <text x="450" y="152" opacity="0">Networking &amp; Cloud Learner
+        <animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.75;0.78;0.97;1" values="0;0;1;1;0"/>
+      </text>
+    </g>
+
+    <!-- blinking cursor -->
+    <rect x="450" y="168" width="0" height="0" fill="none"/>
+  </g>
+</svg>
